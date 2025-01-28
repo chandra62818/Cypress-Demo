@@ -1,0 +1,18 @@
+{
+  "uname": "newuser",
+  "pwd": "Password1",
+  "sign_name": "Password1",
+  "LoginCreds": {
+    "validcreds": {
+      "validemail": "xyz@xyz.xyz",
+      "validpwd": "xyz@xyz.xyz"
+    },
+    "invalidcreds": {
+      "invalidemail": "user@invalid.com",
+      "invalidpwd": "wrongpswd"
+    }
+  }
+}
+
+
+
